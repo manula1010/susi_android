@@ -18,7 +18,7 @@ Planned features & enhancements are:
 - Full-Screen Voice interaction
 - Feedback for skills.
 - Displaying SUSI skills
-- Susi Smart Speaker Configuration and Control
+- SUSI Smart Speaker Configuration and Control
 
 
 ## Communication
